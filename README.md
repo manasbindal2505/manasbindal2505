@@ -29,25 +29,15 @@ I am Manas Bindal, I am a final year student, studying Computer Science from Ind
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png" title="Git"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"></code>
 
-<!-- ## &#x1f4c8; GitHub Stats -->
-
-### ⚙️ Things I use to get stuff done
-
-<ul>
-    <li><b>OS:</b> Ubuntu 20.04, Windows 10</li>
-    <li><b>Laptop: </b> Predator Helios 300</li>
-    <li><b>Browser: </b> Chrome, Brave</li>
-    <li><b>Code Editor:</b> VSCode</li>
-    <li><b>To Stay Updated:</b> Medium and Youtube</li>
-</ul>
-
 ### ⚡ Github Stats
 
 <a href="https://github.com/manasbindal2505/manasbindal2505">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manasbindal2505&show_icons=true&theme=tokyonight" alt="Manas's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manasbindal2505&show_icons=true&theme=radical" alt="Manas's GitHub Stats" />
 </a>
 
 ### ⚡ Github Most Used Languages
 <a href="https://github.com/manasbindal2505/manasbindal2505">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasbindal2505&show_icons=true&locale=en&layout=compact" alt="Manas's Github Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasbindal2505&show_icons=true&locale=en&layout=compact&theme=radical" alt="Manas's Github Stats" />
 </a>
+
+### <p align="center">Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{manasbindal2505}/count.svg)</p>
