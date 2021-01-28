@@ -1,5 +1,5 @@
-## Hi there! <img src="https://raw.githubusercontent.com/manasbindal2505/manasbindal2505/main/wave.gif" width="30px">
-### Engineer | Developer | Designer
+<h1 align="center" style="border-bottom: none"> Hi there! <img src="https://raw.githubusercontent.com/manasbindal2505/manasbindal2505/main/wave.gif" width="30px"> </h1>
+<h3 align="center"> Engineer | Developer | Designer </h3>
 
 I am Manas Bindal, I am a final year student, studying Computer Science from Indore. I am a Software Engineer and love building projects. I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
 
@@ -40,3 +40,5 @@ I am Manas Bindal, I am a final year student, studying Computer Science from Ind
 <a href="https://github.com/manasbindal2505/manasbindal2505">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasbindal2505&show_icons=true&locale=en&layout=compact&theme=radical" alt="Manas's Github Stats" />
 </a>
+
+### <p align="center">Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{manasbindal2505}/count.svg)</p>
