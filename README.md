@@ -1,7 +1,7 @@
 <h1 align="center" style="border-bottom: none"> Hi there! <img src="https://raw.githubusercontent.com/manasbindal2505/manasbindal2505/main/wave.gif" width="30px"> </h1>
 <h3 align="center"> Engineer | Developer | Designer </h3>
 
-I am Manas Bindal, I am a final year student, studying Computer Science from Indore. I am a Software Engineer and love building projects. I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
+I am Manas Bindal & I am a final year student, studying Computer Science from Indore. I am a Software Engineer and love building projects. I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
 
 - 🔭 I’m currently working on **Web Development technologies & Frameworks**
 - 🌱 I’m currently learning **Deep Learning & NLP.**
