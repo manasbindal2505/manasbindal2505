@@ -44,10 +44,10 @@ I am Manas Bindal, I am a final year student, studying Computer Science from Ind
 ### ⚡ Github Stats
 
 <a href="https://github.com/manasbindal2505/manasbindal2505">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvverma&show_icons=true&theme=tokyonight" alt="Apoorv's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manasbindal2505&show_icons=true&theme=tokyonight" alt="Manas's GitHub Stats" />
 </a>
 
 ### ⚡ Github Most Used Languages
 <a href="https://github.com/manasbindal2505/manasbindal2505">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasbindal2505&show_icons=true&locale=en&layout=compact" alt="manasbindal2505" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasbindal2505&show_icons=true&locale=en&layout=compact" alt="Manas's Github Stats" />
 </a>
