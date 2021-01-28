@@ -12,7 +12,6 @@ I am Manas Bindal, I am a final year student, studying Computer Science from Ind
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/manasbindal/)
 <a href="mailto:apoorv.verma999@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/> </a>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/manasbindal/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/manasbindal1)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/manas_bindal/)
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/manas25bindal/)
